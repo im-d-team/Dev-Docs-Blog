@@ -1,0 +1,15 @@
+---
+path: "/Android/2021-05-04--Application Fundamentals"
+date: "2021-05-04"
+title: Application Fundamentals
+tags: [android]
+category: "Android"
+---
+
+# 안드로이드 (Android)
+
+Android 앱은 Kotlin, Java, C++ 언어를 사용하여 작성할 수 있습니다. Android SDK(Software Development Kit) 도구는 모든 데이터 및 리소스 파일과 함께 코드를 컴파일하여 하나의 **APK(Android PacKage)** 를 만듭니다. Android Package는 접미사가 .apk인 아카이브 파일입니다. 한 개의 APK 파일에는 Android 앱의 모든 콘텐츠가 들어 있으며, Android로 구동하는 기기가 앱을 설치할 때 바로 이 파일을 사용합니다.
+
+Android 시스템은 **최소 권한의 원리( Principle of least privilege )** 를 구현합니다. 다시 말해, 각 앱은 기본적으로 자신의 작업을 수행하기 위해 **필요한 구성 요소에만 액세스 권한을 가지고 그 이상은 허용되지 않습니다.** 이렇게 하면 대단히 안전한 환경이 구성되어 앱이 시스템에서 권한을 부여받지 못한 부분에는 액세스할 수 없게 됩니다.
+
+앱이 다른 앱과 데이터를 공유하고 시스템 서비스에 액세스하는 방법은 여러 가지가 있습니다. 그 중에서 '권한'을 살펴보도록 하겠습니다. 앱은 사용자의 연락처, SMS 메시지, 마운트 가능한 저장소(SD 카드), 카메라, 블루투스를 비롯한 여러 가지 기기 데이터에 액세스할 '권한'을 요청할 수 있습니다. 사용자는 이러한 **권한(Permission)** 을 명시적으로 부여해야 합니다.
