@@ -1,0 +1,124 @@
+{
+  "tabList": [
+    {
+      "type": "Android",
+      "path": "/Android",
+      "name": "Android"
+    },
+    {
+      "type": "Browser",
+      "path": "/Browsers",
+      "name": "Browser"
+    },
+    {
+      "type": "CS",
+      "path": "/CS",
+      "name": "CS"
+    },
+    {
+      "type": "CSS",
+      "path": "/CSS",
+      "name": "CSS"
+    },
+    {
+      "type": "Database",
+      "path": "/Database",
+      "name": "Database"
+    },
+    {
+      "type": "Design Pattern",
+      "path": "/Design_Pattern",
+      "name": "Design Pattern"
+    },
+    {
+      "type": "ECMAScript",
+      "path": "/ECMAScript",
+      "name": "ECMAScript"
+    },
+    {
+      "type": "Git",
+      "path": "/Git",
+      "name": "Git"
+    },
+    {
+      "type": "HTML",
+      "path": "/HTML",
+      "name": "HTML"
+    },
+    {
+      "type": "Java",
+      "path": "/Java",
+      "name": "Java"
+    },
+    {
+      "type": "Javascript",
+      "path": "/Javascript",
+      "name": "Javascript"
+    },
+    {
+      "type": "Language",
+      "path": "/Language",
+      "name": "Language"
+    },
+    {
+      "type": "ML",
+      "path": "/ML",
+      "name": "ML"
+    },
+    {
+      "type": "Network",
+      "path": "/Network",
+      "name": "Network"
+    },
+    {
+      "type": "Node.js",
+      "path": "/Node.js",
+      "name": "Node.js"
+    },
+    {
+      "type": "OpenSV",
+      "path": "/OpenSV",
+      "name": "OpenSV"
+    },
+    {
+      "type": "Performance",
+      "path": "/Performance",
+      "name": "Performance"
+    },
+    {
+      "type": "React",
+      "path": "/React",
+      "name": "React"
+    },
+    {
+      "type": "Security",
+      "path": "/Security",
+      "name": "Security"
+    },
+    {
+      "type": "Tool",
+      "path": "/Tool",
+      "name": "Tool"
+    },
+    {
+      "type": "Typescript",
+      "path": "/Typescript",
+      "name": "Typescript"
+    },
+    {
+      "type": "Vue",
+      "path": "/Vue",
+      "name": "Vue"
+    },
+    {
+      "type": "WPF",
+      "path": "/WPF",
+      "name": "WPF"
+    },
+    {
+      "type": "ETC",
+      "path": "/ETC",
+      "name": "ETC"
+    }
+  ]
+}
